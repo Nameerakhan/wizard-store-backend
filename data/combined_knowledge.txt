@@ -1,0 +1,883 @@
+=== PRODUCT CATALOG ===
+
+Product ID: WND-001
+Name: Elder Wand Replica - Master Crafted
+Category: Wands
+House: Universal
+Price: $149.99
+Description: An exquisite replica of the legendary Elder Wand, measuring 15 inches in length. Hand-carved from premium English oak with intricate runic engravings along the shaft. Features authentic bone-white finish and comes with a velvet-lined presentation box. Each wand includes a certificate of authenticity and detailed lore booklet. Perfect for collectors and enthusiasts seeking the most powerful wand in wizarding history.
+Tags: wand, replica, collector, premium, deathly hallows, elder wand, luxury
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-002
+Name: Phoenix Feather Wand - Gryffindor Edition
+Category: Wands
+House: Gryffindor
+Price: $89.99
+Description: A stunning 11-inch wand crafted from holly wood with a phoenix feather core. Features deep burgundy and gold accents representing Gryffindor house. The handle is wrapped in genuine leather with embossed lion motifs. Lightweight yet durable construction makes it perfect for cosplay, display, or theatrical performances. Includes a protective wand holster and display stand.
+Tags: wand, gryffindor, phoenix feather, holly, cosplay, mid-range
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-003
+Name: Dragon Heartstring Wand - Slytherin Edition
+Category: Wands
+House: Slytherin
+Price: $89.99
+Description: A powerful 12.5-inch wand made from blackthorn wood with dragon heartstring core. Features elegant silver serpent details coiling around the handle with emerald green accents. The wand has a slightly flexible nature, ideal for ambitious witches and wizards. Hand-finished with a glossy protective coating. Complete with certificate and silk drawstring pouch.
+Tags: wand, slytherin, dragon heartstring, blackthorn, serpent, mid-range
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-004
+Name: Unicorn Hair Wand - Hufflepuff Edition
+Category: Wands
+House: Hufflepuff
+Price: $89.99
+Description: A loyal 10-inch wand crafted from cherry wood with unicorn hair core. Features warm honey-colored finish with black and yellow badger emblems. The handle is ergonomically designed for comfort during extended use. Known for producing consistent magic with unwavering loyalty. Comes with a handcrafted wooden display box and care instructions.
+Tags: wand, hufflepuff, unicorn hair, cherry wood, loyal, mid-range
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-005
+Name: Raven Feather Wand - Ravenclaw Edition
+Category: Wands
+House: Ravenclaw
+Price: $89.99
+Description: An intellectual 12-inch wand made from vine wood with raven feather core. Features intricate bronze Celtic knot patterns and sapphire blue highlights. The shaft contains subtle astronomical engravings visible under light. Particularly suited for complex spellwork and precise casting. Includes premium display stand and authentication scroll.
+Tags: wand, ravenclaw, raven feather, vine wood, wisdom, mid-range
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-006
+Name: Beginner's Training Wand
+Category: Wands
+House: Universal
+Price: $34.99
+Description: Perfect starter wand for young witches and wizards. Made from durable resin with a classic wooden appearance. Measures 10 inches and features a simple, comfortable grip. Lightweight design ideal for learning basic wand movements and techniques. Safe for children aged 6 and up. Includes beginner's spell guide booklet.
+Tags: wand, beginner, kids, affordable, training, starter
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: WND-007
+Name: Dumbledore's Wand - Master Edition
+Category: Wands
+House: Universal
+Price: $124.99
+Description: Faithful reproduction of Albus Dumbledore's elder wood wand with distinctive irregular texture and bone-like handle. Measures 15 inches with substantial weight for authentic feel. Made from premium resin with hand-painted weathering effects. Features subtle Nordic runes along the shaft. Includes velvet-lined collector's box and wand display stand. Perfect for display or cosplay.
+Tags: wand, dumbledore, elder wood, collector, premium, detailed
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-001
+Name: Deluxe Gryffindor House Robe
+Category: Robes
+House: Gryffindor
+Price: $129.99
+Description: Premium quality house robe featuring authentic scarlet and gold colors. Made from heavy-weight polyester with soft inner lining for maximum comfort. Features embroidered Gryffindor crest on the chest, clasp closure at the neck, and two deep side pockets. Hood lined with contrasting gold satin. Available in sizes XS to XXL. Machine washable. Perfect for events, cosplay, or themed parties.
+Tags: robe, gryffindor, costume, premium, embroidered, house pride
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-002
+Name: Deluxe Slytherin House Robe
+Category: Robes
+House: Slytherin
+Price: $129.99
+Description: Sophisticated house robe in classic emerald green and silver. Crafted from premium fabric with elegant draping and structure. Features detailed embroidered serpent crest, satin-lined hood, and authentic house striping on sleeves. Includes hidden inner pocket and silver clasp. Sizes XS to XXL available. Dry clean recommended for longevity.
+Tags: robe, slytherin, costume, premium, embroidered, elegant
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-003
+Name: Deluxe Ravenclaw House Robe
+Category: Robes
+House: Ravenclaw
+Price: $129.99
+Description: Distinguished house robe featuring royal blue and bronze accents. Premium construction with weighted hem for authentic flow. Embroidered eagle crest with intricate detailing, bronze satin hood lining, and house-colored trim. Two exterior pockets plus one interior secure pocket. Sizes XS to XXL. Easy care fabric resists wrinkles.
+Tags: robe, ravenclaw, costume, premium, embroidered, wise
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-004
+Name: Deluxe Hufflepuff House Robe
+Category: Robes
+House: Hufflepuff
+Price: $129.99
+Description: Warm and welcoming house robe in signature yellow and black. Made from comfortable, breathable fabric with quality construction. Features embroidered badger crest, black satin hood lining, and distinctive house striping. Includes practical side pockets and secure clasp closure. Sizes XS to XXL available. Machine washable for easy maintenance.
+Tags: robe, hufflepuff, costume, premium, embroidered, loyal
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-005
+Name: Standard Wizard Robe - Black
+Category: Robes
+House: Universal
+Price: $69.99
+Description: Classic black wizard robe suitable for any house or occasion. Made from durable polyester blend with comfortable fit. Features simple button closure, two side pockets, and attached hood. Versatile design works for Halloween, conventions, or everyday wizarding needs. Available in sizes S to XL. Easy care and long-lasting.
+Tags: robe, universal, affordable, classic, black, versatile
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: ROB-006
+Name: Quidditch Team Captain Robe
+Category: Robes
+House: Universal
+Price: $159.99
+Description: Premium Quidditch team captain robe with house-specific colors and detailing. Features reinforced shoulders, athletic cut for movement, and embroidered captain's insignia. Made from weather-resistant fabric blend. Includes sewn-in house crest, number patches (customizable), and protective padding in key areas. Available for all four houses in sizes XS-XXL. Specify house and number when ordering. Perfect for serious Quidditch cosplay or themed sporting events.
+Tags: robe, quidditch, captain, athletic, premium, customizable
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: SCA-001
+Name: Gryffindor Knit Scarf - Ultra Soft
+Category: Scarves
+House: Gryffindor
+Price: $39.99
+Description: Luxuriously soft knit scarf in authentic Gryffindor burgundy and gold stripes. Measures 70 inches long and 8 inches wide, perfect for wrapping and styling. Made from premium acrylic yarn that's warm, soft, and hypoallergenic. Features house crest patch sewn on one end and tasseled fringe on both ends. Machine washable. Unisex design suitable for all ages.
+Tags: scarf, gryffindor, knit, winter, accessory, warm
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: SCA-002
+Name: Slytherin Knit Scarf - Ultra Soft
+Category: Scarves
+House: Slytherin
+Price: $39.99
+Description: Elegant knit scarf featuring Slytherin's iconic emerald green and silver stripes. 70 inches in length, 8 inches wide with generous drape. Crafted from high-quality acrylic for warmth without weight. Embroidered serpent crest detail and silky tassels. Perfect for cold weather or showing house pride year-round. Machine washable, colorfast.
+Tags: scarf, slytherin, knit, winter, accessory, elegant
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: SCA-003
+Name: Ravenclaw Knit Scarf - Ultra Soft
+Category: Scarves
+House: Ravenclaw
+Price: $39.99
+Description: Sophisticated knit scarf in Ravenclaw blue and bronze stripes. Premium 70-inch length provides multiple styling options. Made from ultra-soft acrylic blend that resists pilling. Features woven eagle crest and decorative tasseled ends. Lightweight yet warm for all-day comfort. Easy care, machine washable. One size fits all.
+Tags: scarf, ravenclaw, knit, winter, accessory, wisdom
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: SCA-004
+Name: Hufflepuff Knit Scarf - Ultra Soft
+Category: Scarves
+House: Hufflepuff
+Price: $39.99
+Description: Cozy knit scarf in cheerful Hufflepuff yellow and black stripes. Measures 70 inches long, 8 inches wide for versatile wear. Crafted from soft, warm acrylic that's gentle on skin. Embroidered badger crest and playful tassels. Perfect for showing house loyalty in style. Durable construction withstands daily wear. Machine washable.
+Tags: scarf, hufflepuff, knit, winter, accessory, loyal
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-001
+Name: Golden Snitch Replica - Limited Edition
+Category: Collectibles
+House: Universal
+Price: $199.99
+Description: Museum-quality Golden Snitch replica mounted on elegant wooden display stand. Measures 3 inches in diameter with fully articulated silver wings that can be posed open or closed. Body crafted from brass with 24-karat gold plating. Wings feature intricate feather detailing. Includes numbered certificate of authenticity (limited to 5,000 pieces worldwide). Comes in premium glass display dome with brass base and engraved nameplate.
+Tags: collectible, golden snitch, limited edition, luxury, quidditch, display
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-002
+Name: Time-Turner Necklace - Premium Replica
+Category: Collectibles
+House: Universal
+Price: $89.99
+Description: Exquisite Time-Turner necklace featuring fully rotating hourglass mechanism with genuine sand. Made from antique brass-finish metal with intricate gear work and astronomical markings. Pendant measures 2 inches tall, includes 24-inch adjustable chain. Each piece is individually inspected for quality. Comes in collector's gift box with authentication card and velvet pouch.
+Tags: collectible, time-turner, necklace, jewelry, replica, hermione
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-003
+Name: Marauder's Map Full-Size Replica
+Category: Collectibles
+House: Universal
+Price: $79.99
+Description: Full-size authentic replica of the Marauder's Map measuring 24 x 36 inches when fully unfolded. Printed on aged parchment-style paper with all original details including moving passages, secret rooms, and footprints. Folds exactly like the original with multi-panel construction. Includes authentic wax seal and display-worthy packaging. Perfect for framing or interactive display.
+Tags: collectible, marauders map, replica, display, parchment, detailed
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-004
+Name: Hogwarts Castle 3D Puzzle - 1000 Pieces
+Category: Collectibles
+House: Universal
+Price: $64.99
+Description: Challenging 3D jigsaw puzzle that builds into a 15-inch tall Hogwarts Castle model. Features 1000 precision-cut foam-backed pieces with detailed architectural elements including towers, courtyards, and the Great Hall. Includes LED light kit for illuminating windows. Finished model measures 15 x 12 x 14 inches. Comes with detailed instruction booklet and background story. Display-worthy masterpiece.
+Tags: collectible, puzzle, hogwarts, 3D, building, interactive
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-005
+Name: House Founder's Collection - Miniature Statues Set
+Category: Collectibles
+House: Universal
+Price: $249.99
+Description: Complete set of four hand-painted miniature statues depicting Godric Gryffindor, Salazar Slytherin, Rowena Ravenclaw, and Helga Hufflepuff. Each statue stands 6 inches tall on individual pedestals with name plates. Crafted from cold-cast resin with museum-quality detail and metallic accents. Comes in premium presentation box with foam inserts. Limited production run. Perfect centerpiece for serious collectors.
+Tags: collectible, statues, founders, luxury, set, limited edition
+Stock Status: low_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-006
+Name: Chocolate Frog Display Collection
+Category: Collectibles
+House: Universal
+Price: $79.99
+Description: Complete set of 12 famous witch and wizard collectible cards in display-worthy frames. Includes Dumbledore, Merlin, Morgan le Fay, and nine others. Each card measures 3 x 4 inches with detailed artwork and biography on reverse. Comes with chocolate frog-shaped display holder in bronze finish. Cards are printed on premium cardstock with authentic vintage styling. Perfect for desk or shelf display.
+Tags: collectible, chocolate frog cards, display, complete set, wizard cards, desk decor
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: COL-007
+Name: Sorting Hat Replica with Audio
+Category: Collectibles
+House: Universal
+Price: $179.99
+Description: Interactive Sorting Hat replica with motion-activated audio featuring authentic sorting ceremony phrases. Measures 12 inches tall, crafted from quality fabric with realistic wrinkles and aged appearance. Includes stand for display. Press hidden button to hear 15 different sorting phrases and house announcements. Battery operated (3 AA batteries included). Perfect centerpiece for themed parties or collector displays. Officially styled after the original prop.
+Tags: collectible, sorting hat, audio, interactive, replica, display
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: JWL-001
+Name: Deathly Hallows Symbol Pendant - Sterling Silver
+Category: Jewelry
+House: Universal
+Price: $119.99
+Description: Elegant Deathly Hallows symbol pendant crafted from solid .925 sterling silver. Pendant measures 1.2 inches in diameter with precision-cut geometric design. Features oxidized detailing to highlight the Elder Wand, Resurrection Stone, and Cloak of Invisibility symbols. Includes 18-inch sterling silver chain with lobster clasp. Arrives in premium jewelry box with certificate of authenticity and polishing cloth.
+Tags: jewelry, pendant, sterling silver, deathly hallows, necklace, premium
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: JWL-002
+Name: House Crest Ring Collection
+Category: Jewelry
+House: Universal
+Price: $79.99
+Description: Choose your house pride with these detailed crest rings available for all four houses. Each ring features raised 3D house crest with enamel coloring and antiqued metal finish. Made from durable stainless steel that won't tarnish. Available in sizes 6-12. Comfortable band width of 8mm. Specify Gryffindor, Slytherin, Ravenclaw, or Hufflepuff when ordering. Comes in individual gift box.
+Tags: jewelry, ring, house crest, enamel, stainless steel, unisex
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: JWL-003
+Name: Golden Snitch Earrings - Gold Plated
+Category: Jewelry
+House: Universal
+Price: $49.99
+Description: Delicate Golden Snitch stud earrings with intricate wing detailing. Made from brass with 14k gold plating. Each earring measures 0.5 inches across with hypoallergenic surgical steel posts. Wings have three-dimensional sculpting for realistic appearance. Lightweight design comfortable for all-day wear. Comes in elegant jewelry box with care instructions. Perfect gift for Quidditch fans.
+Tags: jewelry, earrings, golden snitch, gold plated, studs, gift
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: JWL-004
+Name: Platform 9¾ Charm Bracelet
+Category: Jewelry
+House: Universal
+Price: $69.99
+Description: Whimsical charm bracelet featuring seven iconic symbols: Platform 9¾ sign, trunk, owl, wand, broomstick, house crest of your choice, and Hogwarts Express. Made from antique silver-tone metal with adjustable 7-9 inch chain. Each charm is detailed with enamel accents. Lobster claw clasp closure. Comes with all charms attached. Packaged in decorative gift tin. Specify house when ordering.
+Tags: jewelry, bracelet, charms, platform 9 3/4, silver tone, whimsical
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: JWL-005
+Name: House Crest Enamel Pin Collection
+Category: Jewelry
+House: Universal
+Price: $39.99
+Description: Set of four house crest enamel pins featuring Gryffindor, Slytherin, Ravenclaw, and Hufflepuff. Each pin measures 1 inch across with detailed enamel work and gold-tone backing. Features secure butterfly clutch fasteners. Perfect for decorating bags, jackets, lanyards, or pin boards. Comes on decorative backing card in protective sleeve. Show your house pride or collect them all.
+Tags: jewelry, pins, enamel, house crests, collection, accessories
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: STA-001
+Name: Hogwarts Acceptance Letter Stationery Set
+Category: Stationery
+House: Universal
+Price: $44.99
+Description: Complete stationery set including 20 pieces of aged parchment paper, 20 envelopes with wax seal stickers, Hogwarts crest wax stamp with sealing wax sticks (burgundy and gold), and a quill pen with ink pot. Perfect for writing authentic-looking letters to fellow witches and wizards. Comes in decorative keepsake box. Parchment is laser-printer compatible.
+Tags: stationery, letter set, parchment, wax seal, hogwarts, writing
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: STA-002
+Name: House-Themed Journal & Pen Set
+Category: Stationery
+House: Universal
+Price: $34.99
+Description: Hardcover journal featuring your chosen house crest in embossed detail. Journal contains 200 lined pages with gilded edges and ribbon bookmark. Matching house-colored ink pen with metallic accents included. Journal measures 6 x 8 inches, perfect for daily writing, spells practice, or potion recipes. Elastic band closure keeps pages secure. Specify Gryffindor, Slytherin, Ravenclaw, or Hufflepuff.
+Tags: stationery, journal, notebook, pen, house colors, embossed
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: STA-003
+Name: Spellbook Grimoire - Blank Pages
+Category: Stationery
+House: Universal
+Price: $59.99
+Description: Large format grimoire-style book with leather-textured cover and brass corner protectors. Contains 300 cream-colored blank pages perfect for creating your own spell book, recipes, or magical notes. Measures 9 x 12 inches with lay-flat binding. Cover features embossed mystical symbols and Celtic knotwork. Includes two satin ribbon bookmarks (black and gold). Magnetic clasp closure. Gift boxed.
+Tags: stationery, grimoire, spellbook, blank pages, leather, large format
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: STA-004
+Name: Marauder's Map Notebook
+Category: Stationery
+House: Universal
+Price: $24.99
+Description: Softcover notebook featuring full Marauder's Map print on cover. Contains 120 lined pages with subtle map details on each page footer. Standard A5 size (5.8 x 8.3 inches) fits easily in bags. Quality paper works with all pen types. Elastic closure band and inner pocket for loose papers. Perfect for students or fans who want practical magical stationery at affordable price.
+Tags: stationery, notebook, marauders map, affordable, student, lined
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: STA-005
+Name: Potion Recipe Book - Leather Bound
+Category: Stationery
+House: Universal
+Price: $49.99
+Description: Beautifully crafted leather-bound potion recipe book with aged pages. Contains pre-printed potion recipes on first 50 pages, followed by 150 blank pages for custom recipes. Features detailed ingredient lists, brewing instructions, and caution notes. Includes ribbon bookmarks in three colors and elastic band closure. Measures 7 x 9 inches. Cover has embossed cauldron and ingredient symbols. Perfect gift for aspiring potioneers.
+Tags: stationery, potion book, leather bound, recipes, detailed, gift
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: LTD-001
+Name: Anniversary Edition Elder Wand - 25th Anniversary
+Category: Limited Editions
+House: Universal
+Price: $399.99
+Description: Exclusive 25th Anniversary Elder Wand in museum display case. This ultimate collector's piece features hand-turned elder wood (ethically sourced), hand-carved runic inscriptions inlaid with metallic paint, and bone-detail handle. Measures 15 inches. Comes in illuminated glass display case with brass plaque, certificate of authenticity numbered out of 2,500, and leather-bound lore book. Each wand is individually inspected and blessed by master wandmakers.
+Tags: limited edition, elder wand, anniversary, luxury, collectors, numbered
+Stock Status: low_stock
+--------------------------------------------------------------------------------
+
+Product ID: LTD-002
+Name: Hogwarts House Cup Trophy - Full Scale Replica
+Category: Limited Editions
+House: Universal
+Price: $599.99
+Description: Life-size House Cup trophy replica standing 18 inches tall. Crafted from solid brass with silver plating and hand-applied house gem accents (rubies, emeralds, sapphires, and yellow diamonds - simulated). Weighs 12 pounds. Features all four house crests in detailed relief work. Mounted on mahogany wooden base with brass nameplate. Limited production of 1,000 pieces worldwide. Includes certificate, white gloves, and custom wooden crate for shipping.
+Tags: limited edition, house cup, trophy, luxury, brass, full scale
+Stock Status: pre_order
+--------------------------------------------------------------------------------
+
+Product ID: LTD-003
+Name: Triwizard Tournament Champions Set
+Category: Limited Editions
+House: Universal
+Price: $299.99
+Description: Exclusive boxed set containing replicas of the four champions' wands from the Triwizard Tournament: Harry Potter's wand, Cedric Diggory's wand, Fleur Delacour's wand, and Viktor Krum's wand. Each wand is 11-14 inches with character-specific details. Set includes Goblet of Fire miniature replica and four champion name scrolls. Presented in deluxe wooden collector's box with velvet lining. Limited to 3,000 sets. Individually numbered.
+Tags: limited edition, wand set, triwizard, collectors, boxed set, numbered
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: GFT-001
+Name: Gryffindor Ultimate Fan Bundle
+Category: Gift Bundles
+House: Gryffindor
+Price: $229.99
+Description: Complete Gryffindor gift bundle including: Deluxe house robe, ultra-soft knit scarf, house crest ring, phoenix feather wand, house-themed journal, and exclusive enamel pin set. All items feature authentic Gryffindor colors and crests. Packaged in premium gift box with house-colored tissue paper and greeting card. Save $70 compared to individual purchase. Perfect birthday or holiday gift for the brave Gryffindor in your life.
+Tags: gift bundle, gryffindor, complete set, value pack, gift, house pride
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: GFT-002
+Name: Slytherin Ultimate Fan Bundle
+Category: Gift Bundles
+House: Slytherin
+Price: $229.99
+Description: Comprehensive Slytherin gift bundle featuring: Deluxe house robe, ultra-soft knit scarf, house crest ring, dragon heartstring wand, house-themed journal, and exclusive enamel pin set. All items showcase signature emerald and silver colors. Elegantly packaged in premium gift box with serpent-embossed tissue. Save $70 versus buying separately. Ideal gift for ambitious Slytherins.
+Tags: gift bundle, slytherin, complete set, value pack, gift, house pride
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: GFT-003
+Name: Starter Wizard Kit - Perfect First Gift
+Category: Gift Bundles
+House: Universal
+Price: $99.99
+Description: Everything a young witch or wizard needs to start their magical journey. Bundle includes: beginner's training wand, standard black robe (youth sizes), house scarf of choice, Hogwarts acceptance letter stationery set, and spell practice workbook. Packaged in themed trunk-style gift box. Recommended for ages 8-14. Specify house preference for scarf. Makes perfect first wizard gift or birthday present.
+Tags: gift bundle, starter kit, kids, beginner, value pack, first gift
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: GFT-004
+Name: Couples Romantic Wizard Date Night Box
+Category: Gift Bundles
+House: Universal
+Price: $149.99
+Description: Enchanting couples bundle perfect for magical date nights. Includes: two golden snitch wine glass charms, two house scarves (specify houses), matching Time-Turner keychains, Marauder's Map picnic blanket, and premium spell-inspired candle set. Presented in romantic gift box with metallic gold ribbon. Ideal for anniversaries, Valentine's Day, or engagements. Create your own magical moments together.
+Tags: gift bundle, couples, romantic, date night, anniversary, valentines
+Stock Status: in_stock
+--------------------------------------------------------------------------------
+
+Product ID: GFT-005
+Name: Luxury Collector's Ultimate Bundle
+Category: Gift Bundles
+House: Universal
+Price: $899.99
+Description: The ultimate wizard merchandise collection for serious fans and collectors. Massive bundle includes: Elder Wand replica with display case, all four deluxe house robes, Golden Snitch limited edition replica, Time-Turner necklace, Marauder's Map full-size replica, complete House Founder statues set, Deathly Hallows sterling silver pendant, and premium Hogwarts journal collection. Arrives in custom wooden collector's trunk with brass fittings and velvet interior. Certificate of collection authenticity included. Save over $500.
+Tags: gift bundle, luxury, collectors, ultimate, premium, complete collection
+Stock Status: low_stock
+--------------------------------------------------------------------------------
+
+
+
+=== STORE POLICIES ===
+
+# WIZARD STORE - STORE POLICIES
+
+## SHIPPING POLICY
+
+### Domestic Shipping (United States)
+- **Standard Shipping (5-7 business days)**: $5.99 for orders under $50
+- **Expedited Shipping (2-3 business days)**: $12.99
+- **Express Shipping (1-2 business days)**: $24.99
+- **FREE Standard Shipping**: Available on all orders over $50
+
+All domestic orders are shipped via USPS, FedEx, or UPS depending on package size and destination. You will receive a tracking number via email once your order ships, typically within 1-2 business days of order placement.
+
+### International Shipping
+- **Canada**: $15.99 flat rate (7-14 business days)
+- **United Kingdom & Europe**: $24.99 flat rate (10-21 business days)
+- **Australia & New Zealand**: $29.99 flat rate (14-28 business days)
+- **Rest of World**: $34.99 flat rate (varies by location)
+
+**Important International Notes:**
+- Customs duties, taxes, and brokerage fees are the responsibility of the customer
+- International orders may experience delays due to customs processing
+- We are not responsible for packages refused due to customs fees
+- Tracking is provided but may be limited once package enters destination country
+
+### Processing Time
+- Most orders ship within 1-2 business days
+- Custom or personalized items (wands with custom engraving, etc.) may take 3-5 business days
+- Limited edition items ship within 2-3 business days due to special packaging
+- Pre-order items will ship on or shortly after the release date specified on product page
+- During holiday seasons (October-December), processing may take up to 3 business days
+
+### Shipping Restrictions
+We currently cannot ship to:
+- PO Boxes for certain large items (robes, collector's trunks)
+- APO/FPO addresses for fragile collectibles
+- Addresses in countries with import restrictions on replica weapons (check local laws regarding wand replicas)
+
+---
+
+## RETURN & REFUND POLICY
+
+### Return Window
+We accept returns within **30 days** of delivery date for most items. Item must be in original, unused condition with all tags, packaging, and accessories included.
+
+### Non-Returnable Items
+The following items cannot be returned due to hygiene, customization, or collectible nature:
+- **Stationery items** that have been opened or written in
+- **Custom or personalized items** (engraved wands, custom robes with numbers/names)
+- **Limited edition items** with broken seals or removed from original packaging
+- **Jewelry items** with broken hygiene seals
+- **Final sale items** (marked as such on product page)
+- **Gift cards**
+
+### Return Process
+1. **Initiate Return**: Email support@wizardstore.com with your order number and reason for return
+2. **Receive Authorization**: We'll send you a Return Authorization (RA) number and return instructions within 24 hours
+3. **Ship Item Back**: Package item securely in original packaging (if possible) and include RA number
+4. **Return Shipping**: Customer is responsible for return shipping costs unless item is defective or we made an error
+5. **Inspection**: We inspect returned items within 2-3 business days of receipt
+6. **Refund Issued**: Refund is processed to original payment method within 5-7 business days after inspection
+
+### Return Shipping Address
+Wizard Store Returns Department  
+1420 Magical Lane  
+Salem, MA 01970  
+USA
+
+**Return Shipping Costs:**
+- Customer pays return shipping for standard returns
+- We provide prepaid label for defective items or shipping errors
+- International customers: we recommend tracked shipping method for returns
+
+### Refund Details
+- Refunds are issued to the original payment method
+- Original shipping charges are non-refundable (unless we made an error)
+- Restocking fee of 15% applies to opened collectible items in original packaging
+- Refunds typically appear in your account within 5-7 business days after processing
+
+---
+
+## DAMAGED OR DEFECTIVE ITEMS POLICY
+
+We take great care in packaging all orders, but occasionally items may arrive damaged during transit.
+
+### If You Receive a Damaged Item
+1. **Take Photos**: Photograph the damaged item and packaging immediately upon receipt
+2. **Contact Us**: Email support@wizardstore.com within **48 hours** of delivery with:
+   - Order number
+   - Photos of damage
+   - Description of the issue
+3. **Resolution Options**: We will offer:
+   - Full refund
+   - Replacement item (if in stock)
+   - Partial refund if you wish to keep item with minor damage
+
+### Defective Items
+If an item is defective (audio features not working, broken clasp, manufacturing defect):
+1. Contact us within **30 days** of receipt
+2. Provide photos and description of defect
+3. We will send a prepaid return label
+4. Choose: replacement or full refund (including original shipping)
+
+**Note:** We inspect all collectibles and limited edition items before shipping. Defects are extremely rare but we stand behind our products 100%.
+
+---
+
+## INTERNATIONAL ORDERS POLICY
+
+### Customs & Import Duties
+- All international packages are marked with accurate customs declarations
+- Customer is responsible for any customs duties, taxes, VAT, or import fees charged by destination country
+- We cannot mark packages as "gift" or undervalue items as this violates international shipping regulations
+- Customs processing times vary by country and are beyond our control
+
+### Lost or Delayed International Packages
+- International shipments may take longer than estimated due to customs
+- If a package has not arrived within 45 days, contact us and we will file a trace
+- We are not responsible for packages held or seized by customs
+- We recommend purchasing shipping insurance for high-value international orders
+
+### International Returns
+- Customer pays return shipping from international addresses
+- We recommend tracked/insured shipping method
+- Refunds do not include original shipping costs or customs fees paid
+- International returns may take 3-4 weeks to process due to shipping times
+
+---
+
+## EXCHANGE POLICY
+
+We do not offer direct exchanges. If you need a different size, color, or house:
+1. Return the original item following our return policy
+2. Place a new order for the desired item
+3. To ensure you get the new item quickly, we recommend placing the new order immediately and returning the unwanted item separately
+
+---
+
+## ORDER CANCELLATION POLICY
+
+### Before Shipment
+- Orders can be cancelled within **2 hours** of placement by emailing support@wizardstore.com
+- If order has already begun processing, cancellation may not be possible
+- Full refund issued for successfully cancelled orders within 3-5 business days
+
+### After Shipment
+- Once an order has shipped, it cannot be cancelled
+- You may refuse delivery and package will return to us
+- Upon receipt of refused package, we will issue refund minus return shipping costs
+
+---
+
+## WRONG ITEM RECEIVED POLICY
+
+If you receive an incorrect item:
+1. Contact us immediately with your order number and photo of item received
+2. We will send a prepaid return label
+3. We will ship the correct item via expedited shipping at no charge
+4. If correct item is out of stock, we will issue full refund including shipping costs
+
+---
+
+## PRE-ORDER POLICY
+
+### Pre-Order Terms
+- Pre-order items display an estimated ship date on the product page
+- Your payment method is charged at time of pre-order placement
+- Ship dates are estimates and may change due to production or shipping delays
+- We will email you with any significant changes to expected ship date
+
+### Pre-Order Cancellation
+- Pre-orders can be cancelled at any time before item ships
+- Full refund issued within 5-7 business days
+- Once item has shipped, standard return policy applies
+
+---
+
+## GIFT WRAP & MESSAGING
+
+### Gift Services (Optional)
+- **Premium Gift Wrapping**: $7.99 per item - includes themed wizard paper, ribbon, and gift tag
+- **Gift Message**: Free - add personalized message during checkout (up to 200 characters)
+- **Direct Ship to Recipient**: No charge - we'll ship directly to gift recipient with no pricing information included
+
+Gift wrapped items may add 1 additional business day to processing time.
+
+---
+
+## PRICE MATCHING POLICY
+
+We do not offer price matching with other retailers. Our prices reflect the quality and authenticity of our officially licensed and custom-designed wizard merchandise.
+
+### Sale Item Policy
+- If an item you purchased goes on sale within 7 days of your order, contact us for a one-time price adjustment credit
+- Item must still be in return window
+- Excludes limited edition and pre-order items
+
+---
+
+## PAYMENT METHODS ACCEPTED
+
+We accept:
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay
+- Google Pay
+- Shop Pay
+
+All transactions are processed securely through encrypted payment gateway. We never store your credit card information.
+
+---
+
+## PRIVACY & SECURITY
+
+- We use industry-standard SSL encryption
+- Your payment information is never stored on our servers
+- We will never share your email with third parties
+- See our full Privacy Policy at www.wizardstore.com/privacy
+
+---
+
+## CONTACT INFORMATION
+
+**Customer Support Hours:**  
+Monday - Friday: 9:00 AM - 6:00 PM EST  
+Saturday: 10:00 AM - 4:00 PM EST  
+Sunday: Closed
+
+**Email:** support@wizardstore.com  
+**Phone:** 1-888-WIZ-SHOP (1-888-949-7467)  
+
+**Average Response Times:**
+- Email: Within 24 hours (business days)
+- Phone: Immediate during business hours
+- Live Chat: Available Monday-Friday 10 AM - 5 PM EST
+
+---
+
+## WHOLESALE & BULK ORDERS
+
+For wholesale inquiries or bulk orders (20+ items), please contact wholesale@wizardstore.com for special pricing and terms.
+
+---
+
+*Policies last updated: January 2026*  
+*Wizard Store reserves the right to update these policies at any time. Customers will be notified of significant changes via email.*
+
+
+=== FREQUENTLY ASKED QUESTIONS ===
+
+# WIZARD STORE - FREQUENTLY ASKED QUESTIONS (FAQ)
+
+## ORDERING & PAYMENT
+
+### Q1: How do I place an order?
+Browse our product catalog, add items to your cart, proceed to checkout, enter your shipping information, and complete payment. You'll receive an order confirmation email immediately after purchase.
+
+### Q2: Can I modify my order after placing it?
+Orders can only be modified within 2 hours of placement by contacting support@wizardstore.com. After that, the order enters our processing system and cannot be changed. You would need to place a new order and return the original items.
+
+### Q3: Do you offer gift wrapping?
+Yes! Premium gift wrapping is available for $7.99 per item. Select this option during checkout. We use themed wizard paper, elegant ribbons, and include a gift tag with your personalized message.
+
+### Q4: Can I use multiple discount codes on one order?
+No, only one discount code can be applied per order. The system will automatically apply the code that gives you the greatest savings.
+
+### Q5: My discount code isn't working. What should I do?
+Check that: (1) Code is still valid and not expired, (2) Items in cart are eligible (some limited editions are excluded), (3) You've met minimum purchase requirements if any, (4) Code is entered exactly as shown (case-sensitive). If issues persist, contact our support team.
+
+### Q6: What payment methods do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and Shop Pay. All transactions are processed securely through our encrypted payment gateway. We never store your credit card information on our servers.
+
+### Q7: Can I cancel my order after purchase?
+Orders can be cancelled within **2 hours** of placement by emailing support@wizardstore.com. If your order has already begun processing, cancellation may not be possible. Once an order has shipped, it cannot be cancelled, but you may refuse delivery or use our standard return policy.
+
+---
+
+## SHIPPING & DELIVERY
+
+### Q8: How long does shipping take?
+**Domestic:** 5-7 business days for standard shipping, 2-3 days for expedited, 1-2 days for express.  
+**International:** 7-14 days (Canada), 10-21 days (UK/Europe), 14-28 days (Australia/NZ), varies elsewhere.  
+Processing time is 1-2 business days before shipment.
+
+### Q9: Do you ship internationally?
+Yes! We ship to most countries worldwide. Shipping costs: Canada ($15.99), UK & Europe ($24.99), Australia & New Zealand ($29.99), Rest of World ($34.99). Note: customers are responsible for any customs duties, taxes, VAT, or import fees charged by their destination country.
+
+### Q10: Can I track my order?
+Yes! Once your order ships (typically 1-2 business days), you'll receive a tracking number via email. You can also track your order by logging into your account on our website and viewing order history.
+
+### Q11: What if my package is lost or stolen?
+Contact us immediately. For confirmed lost packages, we will file a claim with the carrier. Once approved, we'll send a replacement or issue a full refund. We recommend filing a police report for stolen packages to expedite the claims process.
+
+### Q12: Do you ship to PO Boxes?
+We ship most items to PO Boxes, but large items (robes, collector's trunks) and fragile collectibles may require a physical address. This will be indicated on the product page or you'll be notified during checkout.
+
+---
+
+## PRODUCTS & AVAILABILITY
+
+### Q13: Are your products officially licensed?
+Many of our products are officially licensed merchandise, while others are inspired designs and handcrafted replicas. Each product description indicates licensing status. We stand behind the quality and authenticity of all items we sell.
+
+### Q14: What if an item I want is out of stock?
+You can sign up for back-in-stock notifications on the product page. We'll email you when the item is available again. For limited edition items, we may not restock, so we recommend checking our "Limited Editions" section regularly.
+
+### Q15: Can I request custom engravings or personalization?
+Yes! Select wands and jewelry items offer custom engraving. Look for the "Personalization Available" option on product pages. Custom items take 3-5 additional business days to process and cannot be returned.
+
+### Q16: What materials are the wands made from?
+Our wands are made from various materials depending on the price point:
+- Budget wands ($25-40): Durable resin with painted finish
+- Mid-range wands ($70-100): Premium resin or composite wood with detailed crafting
+- Premium wands ($120-200): Real wood (where specified), hand-carved, with luxury finishes
+- Limited edition wands ($300+): Exotic woods, precious metal accents, display cases
+
+### Q17: Are wands handcrafted?
+Premium and limited edition wands ($120+) are hand-carved and hand-finished by skilled craftspeople. Mid-range wands feature hand-painted details. Budget wands are machine-made but still quality-inspected. Each product description specifies the level of craftsmanship.
+
+### Q18: What sizes do your robes come in?
+Our robes are available in sizes XS through XXL. Please refer to our detailed size chart on each product page. Robes are designed to fit loosely over regular clothing. If between sizes, we recommend sizing up for comfort and authentic draping.
+
+---
+9: I don't know my Hogwarts house. Can you help me decide?
+While we can't officially sort you, here's a quick guide:
+- **Gryffindor**: Brave, daring, chivalrous (colors: scarlet & gold)
+- **Slytherin**: Ambitious, cunning, resourceful (colors: green & silver)
+- **Ravenclaw**: Intelligent, witty, wise (colors: blue & bronze)
+- **Hufflepuff**: Loyal, patient, hardworking (colors: yellow & black)
+
+Many products are available in all house colors - choose what resonates with you!
+
+### Q20
+Many products are available in all house colors - choose what resonates with you!
+
+### Q17: Do you have house-neutral products?
+Yes! Look for items marked as "Universal" or "All Houses" in the house filter. These include items like the Elder Wand, standard black robes, Marauder's Map replicas, and many collectibles that aren't house-specific.
+
+---
+
+## RETURNS & EXCHANGES
+
+### Q21: What is your return policy?
+We accept returns within 30 days of delivery for items in original, unused condition with all tags and packaging. Customer pays return shipping unless item is defective. Some items (personalized, opened stationery, limited editions with broken seals) cannot be returned. See our full Return Policy for details.
+
+### Q22: How do I return an item?
+Email support@wizardstore.com with your order number and reason for return. We'll send you a Return Authorization (RA) number and instructions within 24 hours. Ship the item back with the RA number included. We'll process your refund within 5-7 business days after receiving and inspecting the return.
+
+### Q23: Can I exchange an item for a different size or house color?
+We don't offer direct exchanges. Please return the original item and place a new order for the size/color you need. This ensures you receive the new item as quickly as possible without waiting for the return to process.
+
+### Q24: What if I received a damaged or defective item?
+Contact us within 48 hours of delivery with photos of the damage or defect. We'll either send a replacement immediately or provide a prepaid return label for a full refund (including original shipping costs). We stand behind our products 100%.
+
+---
+
+## GIFT BUNDLES & RECOMMENDATIONS
+
+### Q25: What's the best gift for a Gryffindor fan?
+Our **Gryffindor Ultimate Fan Bundle** ($229.99) is our most popular Gryffindor gift, including a robe, scarf, wand, journal, ring, and pin set. For smaller budgets, the **Phoenix Feather Wand** ($89.99) or **Deluxe Gryffindor Robe** ($129.99) are excellent choices.
+
+### Q26: What do you recommend for a first-time wizard merchandise buyer?
+Our **Starter Wizard Kit** ($99.99) is perfect for beginners. It includes a training wand, robe, scarf, acceptance letter set, and workbook - everything needed to start a magical collection at a great value price.
+
+### Q27: I need a gift under $50. What do you suggest?
+Great options under $50:
+- House-themed knit scarves ($39.99)
+- Hogwarts Acceptance Letter Stationery Set ($44.99)
+- Golden Snitch Earrings ($49.99)
+- House-Themed Journal & Pen Set ($34.99)
+- Marauder's Map Notebook ($24.99)
+
+### Q28: What's the most popular item in your store?
+Our **Deluxe House Robes** ($129.99) are consistently our best-sellers across all four houses. Close seconds are the **Phoenix Feather Wands** ($89.99) and **House Knit Scarves** ($39.99).
+
+---
+
+## COLLECTIBLES & LIMITED EDITIONS
+
+### Q29: What makes an item "limited edition"?
+Limited edition items are produced in restricted quantities (typically 1,000-5,000 pieces) and include numbered certificates of authenticity. Once sold out, they are not restocked. These items often feature premium materials, special packaging, and exclusive designs.
+
+### Q30: Are limited editions restocked?
+No. Limited edition items are produced in specific quantities and once sold out, they are never restocked. This is what makes them collectible. We recommend purchasing limited editions when you see them, as they may not be available again. You can sign up for launch notifications for upcoming limited releases.
+
+### Q31: Can limited edition items be returned?
+Limited edition items with broken seals or removed from original packaging cannot be returned due to their collectible nature and numbered authenticity. Unopened limited editions may be returned within 30 days. Defective limited editions can always be returned for replacement or refund.
+
+### Q32: How do I know if a limited edition item is authentic?
+All our limited edition items include:
+- Numbered certificate of authenticity
+- Holographic authenticity sticker
+- Premium packaging with item-specific details
+- Registration card (for items over $200)
+
+### Q33: Do collectibles increase in value?
+While we can't guarantee investment returns, historically our limited edition wands, house cup trophies, and founder statue sets have appreciated in value on secondary markets. We recommend purchasing items you genuinely love rather than solely for investment purposes.
+
+---
+4: Do I need an account to place an order?
+No, you can checkout as a guest. However, creating an account allows you to track orders, save addresses, view order history, and receive exclusive member discounts.
+
+### Q35: I forgot my password. How do I reset it?
+Click "Forgot Password" on the login page, enter your email address, and we'll send you a password reset link. The link expires after 24 hours for security.
+
+### Q36: How do I update my email address or shipping information?
+Log into your account and go to "Account Settings." You can update your email, password, and saved addresses there. Changes to email addresses require verification via confirmation email.
+
+### Q37: How do I contact customer support?
+**Email:** support@wizardstore.com (24-hour response on business days)  
+**Phone:** 1-888-WIZ-SHOP (1-888-949-7467)  
+**Live Chat:** Available Mon-Fri, 10 AM - 5 PM EST  
+**Hour8: Are your wands suitable for cosplay?
+Most of our mid-range and premium wands ($70+) are perfect for cosplay. They're lightweight, durable, and detailed enough to look authentic in photos. We recommend checking product descriptions for "cosplay suitable" tags.
+
+### Q39: Can I wear the robes to theme parks?
+Yes! Our robes meet most theme park costume guidelines. However, some parks have restrictions on mask-like hoods or items resembling weapons. We recommend checking specific park rules before your visit.
+
+### Q40: Do you offer wholesale pricing for events or businesses?
+Yes! Contact wholesale@wizardstore.com for bulk orders of 20+ items. We offer special pricing for event planners, retail shops, and corporate gifts.
+
+### Q41: Are your products suitable for children?
+Many items are suitable for children aged 8+, including our training wands, standard robes, and most scarves. Some collectibles contain small parts and are recommended for ages 14+. Each product page lists age recommendations in the specifications section.
+
+### Q42: Can I wear the robes to theme parks?
+Yes! Our robes meet most theme park costume guidelines. However, some parks have restrictions on mask-like hoods or items resembling weapons. We recommend checking specific park rules before your visit.
+
+### Q35: Do you offer wholesale pricing for events or businesses?
+Yes! Contact wholesale@wizardstore.com for bulk orders of 20+ items. We offer special pricing for event planners, retail shops, and corporate gifts.
+
+### Q36: Are your products suitable for children?
+Many 43: How do I clean my wizard robe?
+Most robes are machine washable on gentle cycle with cold water. We recommend washing dark colors separately and air drying to prevent shrinkage. Premium robes with extensive embroidery should be dry cleaned. Check the care tag on your specific robe.
+
+### Q44: How should I store my wand collection?
+Keep wands away from direct sunlight and extreme temperatures to prevent warping or fading. Display cases, wall mounts, or the included storage boxes are ideal. Avoid stacking wands directly on top of each other.
+
+### Q45
+## CARE & MAINTENANCE
+
+### Q38: How do I clean my wizard robe?
+Most robes are machine washable on gentle cycle with cold water. We recommend washing dark colors separately and air drying to prevent shrinkage. Premium robes with extensive embroidery should be dry cleaned. Check the care tag on your specific robe.
+
+### Q39: How should I store my wand collection?
+Keep wands away from direct sunlight and extreme temperatures to prevent warping or fading. Display cases, wall mounts, or the included storage boxes are ideal. Avoid stacking wands directly on top of each other.
+
+### Q40: Can I clean my jewelry items?
+Use a soft, dry cloth for regular cleaning. For sterling silver items, use a silver polishing cloth. Avoid harsh chemicals, ultrasonic cleaners, or submerging items with enamel details in water. Remove jewelry before swimming or showering.
+
+---
+
+**Still have questions?**  
+Contact our customer support team:  
+📧 Email: support@wizardstore.com  
+📞 Phone: 1-888-WIZ-SHOP  
+💬 Live Chat: Available Mon-Fri, 10 AM - 5 PM EST
+
+*FAQ last updated: January 2026*

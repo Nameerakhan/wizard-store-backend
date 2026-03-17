@@ -1,0 +1,422 @@
+[
+  {
+    "id": "WND-001",
+    "name": "Elder Wand Replica - Master Crafted",
+    "category": "Wands",
+    "house": "Universal",
+    "price": 149.99,
+    "description": "An exquisite replica of the legendary Elder Wand, measuring 15 inches in length. Hand-carved from premium English oak with intricate runic engravings along the shaft. Features authentic bone-white finish and comes with a velvet-lined presentation box. Each wand includes a certificate of authenticity and detailed lore booklet. Perfect for collectors and enthusiasts seeking the most powerful wand in wizarding history.",
+    "tags": ["wand", "replica", "collector", "premium", "deathly hallows", "elder wand", "luxury"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-002",
+    "name": "Phoenix Feather Wand - Gryffindor Edition",
+    "category": "Wands",
+    "house": "Gryffindor",
+    "price": 89.99,
+    "description": "A stunning 11-inch wand crafted from holly wood with a phoenix feather core. Features deep burgundy and gold accents representing Gryffindor house. The handle is wrapped in genuine leather with embossed lion motifs. Lightweight yet durable construction makes it perfect for cosplay, display, or theatrical performances. Includes a protective wand holster and display stand.",
+    "tags": ["wand", "gryffindor", "phoenix feather", "holly", "cosplay", "mid-range"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-003",
+    "name": "Dragon Heartstring Wand - Slytherin Edition",
+    "category": "Wands",
+    "house": "Slytherin",
+    "price": 89.99,
+    "description": "A powerful 12.5-inch wand made from blackthorn wood with dragon heartstring core. Features elegant silver serpent details coiling around the handle with emerald green accents. The wand has a slightly flexible nature, ideal for ambitious witches and wizards. Hand-finished with a glossy protective coating. Complete with certificate and silk drawstring pouch.",
+    "tags": ["wand", "slytherin", "dragon heartstring", "blackthorn", "serpent", "mid-range"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-004",
+    "name": "Unicorn Hair Wand - Hufflepuff Edition",
+    "category": "Wands",
+    "house": "Hufflepuff",
+    "price": 89.99,
+    "description": "A loyal 10-inch wand crafted from cherry wood with unicorn hair core. Features warm honey-colored finish with black and yellow badger emblems. The handle is ergonomically designed for comfort during extended use. Known for producing consistent magic with unwavering loyalty. Comes with a handcrafted wooden display box and care instructions.",
+    "tags": ["wand", "hufflepuff", "unicorn hair", "cherry wood", "loyal", "mid-range"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-005",
+    "name": "Raven Feather Wand - Ravenclaw Edition",
+    "category": "Wands",
+    "house": "Ravenclaw",
+    "price": 89.99,
+    "description": "An intellectual 12-inch wand made from vine wood with raven feather core. Features intricate bronze Celtic knot patterns and sapphire blue highlights. The shaft contains subtle astronomical engravings visible under light. Particularly suited for complex spellwork and precise casting. Includes premium display stand and authentication scroll.",
+    "tags": ["wand", "ravenclaw", "raven feather", "vine wood", "wisdom", "mid-range"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-006",
+    "name": "Beginner's Training Wand",
+    "category": "Wands",
+    "house": "Universal",
+    "price": 34.99,
+    "description": "Perfect starter wand for young witches and wizards. Made from durable resin with a classic wooden appearance. Measures 10 inches and features a simple, comfortable grip. Lightweight design ideal for learning basic wand movements and techniques. Safe for children aged 6 and up. Includes beginner's spell guide booklet.",
+    "tags": ["wand", "beginner", "kids", "affordable", "training", "starter"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "WND-007",
+    "name": "Dumbledore's Wand - Master Edition",
+    "category": "Wands",
+    "house": "Universal",
+    "price": 124.99,
+    "description": "Faithful reproduction of Albus Dumbledore's elder wood wand with distinctive irregular texture and bone-like handle. Measures 15 inches with substantial weight for authentic feel. Made from premium resin with hand-painted weathering effects. Features subtle Nordic runes along the shaft. Includes velvet-lined collector's box and wand display stand. Perfect for display or cosplay.",
+    "tags": ["wand", "dumbledore", "elder wood", "collector", "premium", "detailed"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-001",
+    "name": "Deluxe Gryffindor House Robe",
+    "category": "Robes",
+    "house": "Gryffindor",
+    "price": 129.99,
+    "description": "Premium quality house robe featuring authentic scarlet and gold colors. Made from heavy-weight polyester with soft inner lining for maximum comfort. Features embroidered Gryffindor crest on the chest, clasp closure at the neck, and two deep side pockets. Hood lined with contrasting gold satin. Available in sizes XS to XXL. Machine washable. Perfect for events, cosplay, or themed parties.",
+    "tags": ["robe", "gryffindor", "costume", "premium", "embroidered", "house pride"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-002",
+    "name": "Deluxe Slytherin House Robe",
+    "category": "Robes",
+    "house": "Slytherin",
+    "price": 129.99,
+    "description": "Sophisticated house robe in classic emerald green and silver. Crafted from premium fabric with elegant draping and structure. Features detailed embroidered serpent crest, satin-lined hood, and authentic house striping on sleeves. Includes hidden inner pocket and silver clasp. Sizes XS to XXL available. Dry clean recommended for longevity.",
+    "tags": ["robe", "slytherin", "costume", "premium", "embroidered", "elegant"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-003",
+    "name": "Deluxe Ravenclaw House Robe",
+    "category": "Robes",
+    "house": "Ravenclaw",
+    "price": 129.99,
+    "description": "Distinguished house robe featuring royal blue and bronze accents. Premium construction with weighted hem for authentic flow. Embroidered eagle crest with intricate detailing, bronze satin hood lining, and house-colored trim. Two exterior pockets plus one interior secure pocket. Sizes XS to XXL. Easy care fabric resists wrinkles.",
+    "tags": ["robe", "ravenclaw", "costume", "premium", "embroidered", "wise"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-004",
+    "name": "Deluxe Hufflepuff House Robe",
+    "category": "Robes",
+    "house": "Hufflepuff",
+    "price": 129.99,
+    "description": "Warm and welcoming house robe in signature yellow and black. Made from comfortable, breathable fabric with quality construction. Features embroidered badger crest, black satin hood lining, and distinctive house striping. Includes practical side pockets and secure clasp closure. Sizes XS to XXL available. Machine washable for easy maintenance.",
+    "tags": ["robe", "hufflepuff", "costume", "premium", "embroidered", "loyal"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-005",
+    "name": "Standard Wizard Robe - Black",
+    "category": "Robes",
+    "house": "Universal",
+    "price": 69.99,
+    "description": "Classic black wizard robe suitable for any house or occasion. Made from durable polyester blend with comfortable fit. Features simple button closure, two side pockets, and attached hood. Versatile design works for Halloween, conventions, or everyday wizarding needs. Available in sizes S to XL. Easy care and long-lasting.",
+    "tags": ["robe", "universal", "affordable", "classic", "black", "versatile"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "ROB-006",
+    "name": "Quidditch Team Captain Robe",
+    "category": "Robes",
+    "house": "Universal",
+    "price": 159.99,
+    "description": "Premium Quidditch team captain robe with house-specific colors and detailing. Features reinforced shoulders, athletic cut for movement, and embroidered captain's insignia. Made from weather-resistant fabric blend. Includes sewn-in house crest, number patches (customizable), and protective padding in key areas. Available for all four houses in sizes XS-XXL. Specify house and number when ordering. Perfect for serious Quidditch cosplay or themed sporting events.",
+    "tags": ["robe", "quidditch", "captain", "athletic", "premium", "customizable"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "SCA-001",
+    "name": "Gryffindor Knit Scarf - Ultra Soft",
+    "category": "Scarves",
+    "house": "Gryffindor",
+    "price": 39.99,
+    "description": "Luxuriously soft knit scarf in authentic Gryffindor burgundy and gold stripes. Measures 70 inches long and 8 inches wide, perfect for wrapping and styling. Made from premium acrylic yarn that's warm, soft, and hypoallergenic. Features house crest patch sewn on one end and tasseled fringe on both ends. Machine washable. Unisex design suitable for all ages.",
+    "tags": ["scarf", "gryffindor", "knit", "winter", "accessory", "warm"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "SCA-002",
+    "name": "Slytherin Knit Scarf - Ultra Soft",
+    "category": "Scarves",
+    "house": "Slytherin",
+    "price": 39.99,
+    "description": "Elegant knit scarf featuring Slytherin's iconic emerald green and silver stripes. 70 inches in length, 8 inches wide with generous drape. Crafted from high-quality acrylic for warmth without weight. Embroidered serpent crest detail and silky tassels. Perfect for cold weather or showing house pride year-round. Machine washable, colorfast.",
+    "tags": ["scarf", "slytherin", "knit", "winter", "accessory", "elegant"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "SCA-003",
+    "name": "Ravenclaw Knit Scarf - Ultra Soft",
+    "category": "Scarves",
+    "house": "Ravenclaw",
+    "price": 39.99,
+    "description": "Sophisticated knit scarf in Ravenclaw blue and bronze stripes. Premium 70-inch length provides multiple styling options. Made from ultra-soft acrylic blend that resists pilling. Features woven eagle crest and decorative tasseled ends. Lightweight yet warm for all-day comfort. Easy care, machine washable. One size fits all.",
+    "tags": ["scarf", "ravenclaw", "knit", "winter", "accessory", "wisdom"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "SCA-004",
+    "name": "Hufflepuff Knit Scarf - Ultra Soft",
+    "category": "Scarves",
+    "house": "Hufflepuff",
+    "price": 39.99,
+    "description": "Cozy knit scarf in cheerful Hufflepuff yellow and black stripes. Measures 70 inches long, 8 inches wide for versatile wear. Crafted from soft, warm acrylic that's gentle on skin. Embroidered badger crest and playful tassels. Perfect for showing house loyalty in style. Durable construction withstands daily wear. Machine washable.",
+    "tags": ["scarf", "hufflepuff", "knit", "winter", "accessory", "loyal"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-001",
+    "name": "Golden Snitch Replica - Limited Edition",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 199.99,
+    "description": "Museum-quality Golden Snitch replica mounted on elegant wooden display stand. Measures 3 inches in diameter with fully articulated silver wings that can be posed open or closed. Body crafted from brass with 24-karat gold plating. Wings feature intricate feather detailing. Includes numbered certificate of authenticity (limited to 5,000 pieces worldwide). Comes in premium glass display dome with brass base and engraved nameplate.",
+    "tags": ["collectible", "golden snitch", "limited edition", "luxury", "quidditch", "display"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-002",
+    "name": "Time-Turner Necklace - Premium Replica",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 89.99,
+    "description": "Exquisite Time-Turner necklace featuring fully rotating hourglass mechanism with genuine sand. Made from antique brass-finish metal with intricate gear work and astronomical markings. Pendant measures 2 inches tall, includes 24-inch adjustable chain. Each piece is individually inspected for quality. Comes in collector's gift box with authentication card and velvet pouch.",
+    "tags": ["collectible", "time-turner", "necklace", "jewelry", "replica", "hermione"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-003",
+    "name": "Marauder's Map Full-Size Replica",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 79.99,
+    "description": "Full-size authentic replica of the Marauder's Map measuring 24 x 36 inches when fully unfolded. Printed on aged parchment-style paper with all original details including moving passages, secret rooms, and footprints. Folds exactly like the original with multi-panel construction. Includes authentic wax seal and display-worthy packaging. Perfect for framing or interactive display.",
+    "tags": ["collectible", "marauders map", "replica", "display", "parchment", "detailed"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-004",
+    "name": "Hogwarts Castle 3D Puzzle - 1000 Pieces",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 64.99,
+    "description": "Challenging 3D jigsaw puzzle that builds into a 15-inch tall Hogwarts Castle model. Features 1000 precision-cut foam-backed pieces with detailed architectural elements including towers, courtyards, and the Great Hall. Includes LED light kit for illuminating windows. Finished model measures 15 x 12 x 14 inches. Comes with detailed instruction booklet and background story. Display-worthy masterpiece.",
+    "tags": ["collectible", "puzzle", "hogwarts", "3D", "building", "interactive"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-005",
+    "name": "House Founder's Collection - Miniature Statues Set",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 249.99,
+    "description": "Complete set of four hand-painted miniature statues depicting Godric Gryffindor, Salazar Slytherin, Rowena Ravenclaw, and Helga Hufflepuff. Each statue stands 6 inches tall on individual pedestals with name plates. Crafted from cold-cast resin with museum-quality detail and metallic accents. Comes in premium presentation box with foam inserts. Limited production run. Perfect centerpiece for serious collectors.",
+    "tags": ["collectible", "statues", "founders", "luxury", "set", "limited edition"],
+    "stock_status": "low_stock"
+  },
+  {
+    "id": "COL-006",
+    "name": "Chocolate Frog Display Collection",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 79.99,
+    "description": "Complete set of 12 famous witch and wizard collectible cards in display-worthy frames. Includes Dumbledore, Merlin, Morgan le Fay, and nine others. Each card measures 3 x 4 inches with detailed artwork and biography on reverse. Comes with chocolate frog-shaped display holder in bronze finish. Cards are printed on premium cardstock with authentic vintage styling. Perfect for desk or shelf display.",
+    "tags": ["collectible", "chocolate frog cards", "display", "complete set", "wizard cards", "desk decor"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "COL-007",
+    "name": "Sorting Hat Replica with Audio",
+    "category": "Collectibles",
+    "house": "Universal",
+    "price": 179.99,
+    "description": "Interactive Sorting Hat replica with motion-activated audio featuring authentic sorting ceremony phrases. Measures 12 inches tall, crafted from quality fabric with realistic wrinkles and aged appearance. Includes stand for display. Press hidden button to hear 15 different sorting phrases and house announcements. Battery operated (3 AA batteries included). Perfect centerpiece for themed parties or collector displays. Officially styled after the original prop.",
+    "tags": ["collectible", "sorting hat", "audio", "interactive", "replica", "display"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "JWL-001",
+    "name": "Deathly Hallows Symbol Pendant - Sterling Silver",
+    "category": "Jewelry",
+    "house": "Universal",
+    "price": 119.99,
+    "description": "Elegant Deathly Hallows symbol pendant crafted from solid .925 sterling silver. Pendant measures 1.2 inches in diameter with precision-cut geometric design. Features oxidized detailing to highlight the Elder Wand, Resurrection Stone, and Cloak of Invisibility symbols. Includes 18-inch sterling silver chain with lobster clasp. Arrives in premium jewelry box with certificate of authenticity and polishing cloth.",
+    "tags": ["jewelry", "pendant", "sterling silver", "deathly hallows", "necklace", "premium"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "JWL-002",
+    "name": "House Crest Ring Collection",
+    "category": "Jewelry",
+    "house": "Universal",
+    "price": 79.99,
+    "description": "Choose your house pride with these detailed crest rings available for all four houses. Each ring features raised 3D house crest with enamel coloring and antiqued metal finish. Made from durable stainless steel that won't tarnish. Available in sizes 6-12. Comfortable band width of 8mm. Specify Gryffindor, Slytherin, Ravenclaw, or Hufflepuff when ordering. Comes in individual gift box.",
+    "tags": ["jewelry", "ring", "house crest", "enamel", "stainless steel", "unisex"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "JWL-003",
+    "name": "Golden Snitch Earrings - Gold Plated",
+    "category": "Jewelry",
+    "house": "Universal",
+    "price": 49.99,
+    "description": "Delicate Golden Snitch stud earrings with intricate wing detailing. Made from brass with 14k gold plating. Each earring measures 0.5 inches across with hypoallergenic surgical steel posts. Wings have three-dimensional sculpting for realistic appearance. Lightweight design comfortable for all-day wear. Comes in elegant jewelry box with care instructions. Perfect gift for Quidditch fans.",
+    "tags": ["jewelry", "earrings", "golden snitch", "gold plated", "studs", "gift"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "JWL-004",
+    "name": "Platform 9¾ Charm Bracelet",
+    "category": "Jewelry",
+    "house": "Universal",
+    "price": 69.99,
+    "description": "Whimsical charm bracelet featuring seven iconic symbols: Platform 9¾ sign, trunk, owl, wand, broomstick, house crest of your choice, and Hogwarts Express. Made from antique silver-tone metal with adjustable 7-9 inch chain. Each charm is detailed with enamel accents. Lobster claw clasp closure. Comes with all charms attached. Packaged in decorative gift tin. Specify house when ordering.",
+    "tags": ["jewelry", "bracelet", "charms", "platform 9 3/4", "silver tone", "whimsical"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "JWL-005",
+    "name": "House Crest Enamel Pin Collection",
+    "category": "Jewelry",
+    "house": "Universal",
+    "price": 39.99,
+    "description": "Set of four house crest enamel pins featuring Gryffindor, Slytherin, Ravenclaw, and Hufflepuff. Each pin measures 1 inch across with detailed enamel work and gold-tone backing. Features secure butterfly clutch fasteners. Perfect for decorating bags, jackets, lanyards, or pin boards. Comes on decorative backing card in protective sleeve. Show your house pride or collect them all.",
+    "tags": ["jewelry", "pins", "enamel", "house crests", "collection", "accessories"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "STA-001",
+    "name": "Hogwarts Acceptance Letter Stationery Set",
+    "category": "Stationery",
+    "house": "Universal",
+    "price": 44.99,
+    "description": "Complete stationery set including 20 pieces of aged parchment paper, 20 envelopes with wax seal stickers, Hogwarts crest wax stamp with sealing wax sticks (burgundy and gold), and a quill pen with ink pot. Perfect for writing authentic-looking letters to fellow witches and wizards. Comes in decorative keepsake box. Parchment is laser-printer compatible.",
+    "tags": ["stationery", "letter set", "parchment", "wax seal", "hogwarts", "writing"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "STA-002",
+    "name": "House-Themed Journal & Pen Set",
+    "category": "Stationery",
+    "house": "Universal",
+    "price": 34.99,
+    "description": "Hardcover journal featuring your chosen house crest in embossed detail. Journal contains 200 lined pages with gilded edges and ribbon bookmark. Matching house-colored ink pen with metallic accents included. Journal measures 6 x 8 inches, perfect for daily writing, spells practice, or potion recipes. Elastic band closure keeps pages secure. Specify Gryffindor, Slytherin, Ravenclaw, or Hufflepuff.",
+    "tags": ["stationery", "journal", "notebook", "pen", "house colors", "embossed"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "STA-003",
+    "name": "Spellbook Grimoire - Blank Pages",
+    "category": "Stationery",
+    "house": "Universal",
+    "price": 59.99,
+    "description": "Large format grimoire-style book with leather-textured cover and brass corner protectors. Contains 300 cream-colored blank pages perfect for creating your own spell book, recipes, or magical notes. Measures 9 x 12 inches with lay-flat binding. Cover features embossed mystical symbols and Celtic knotwork. Includes two satin ribbon bookmarks (black and gold). Magnetic clasp closure. Gift boxed.",
+    "tags": ["stationery", "grimoire", "spellbook", "blank pages", "leather", "large format"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "STA-004",
+    "name": "Marauder's Map Notebook",
+    "category": "Stationery",
+    "house": "Universal",
+    "price": 24.99,
+    "description": "Softcover notebook featuring full Marauder's Map print on cover. Contains 120 lined pages with subtle map details on each page footer. Standard A5 size (5.8 x 8.3 inches) fits easily in bags. Quality paper works with all pen types. Elastic closure band and inner pocket for loose papers. Perfect for students or fans who want practical magical stationery at affordable price.",
+    "tags": ["stationery", "notebook", "marauders map", "affordable", "student", "lined"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "STA-005",
+    "name": "Potion Recipe Book - Leather Bound",
+    "category": "Stationery",
+    "house": "Universal",
+    "price": 49.99,
+    "description": "Beautifully crafted leather-bound potion recipe book with aged pages. Contains pre-printed potion recipes on first 50 pages, followed by 150 blank pages for custom recipes. Features detailed ingredient lists, brewing instructions, and caution notes. Includes ribbon bookmarks in three colors and elastic band closure. Measures 7 x 9 inches. Cover has embossed cauldron and ingredient symbols. Perfect gift for aspiring potioneers.",
+    "tags": ["stationery", "potion book", "leather bound", "recipes", "detailed", "gift"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "LTD-001",
+    "name": "Anniversary Edition Elder Wand - 25th Anniversary",
+    "category": "Limited Editions",
+    "house": "Universal",
+    "price": 399.99,
+    "description": "Exclusive 25th Anniversary Elder Wand in museum display case. This ultimate collector's piece features hand-turned elder wood (ethically sourced), hand-carved runic inscriptions inlaid with metallic paint, and bone-detail handle. Measures 15 inches. Comes in illuminated glass display case with brass plaque, certificate of authenticity numbered out of 2,500, and leather-bound lore book. Each wand is individually inspected and blessed by master wandmakers.",
+    "tags": ["limited edition", "elder wand", "anniversary", "luxury", "collectors", "numbered"],
+    "stock_status": "low_stock"
+  },
+  {
+    "id": "LTD-002",
+    "name": "Hogwarts House Cup Trophy - Full Scale Replica",
+    "category": "Limited Editions",
+    "house": "Universal",
+    "price": 599.99,
+    "description": "Life-size House Cup trophy replica standing 18 inches tall. Crafted from solid brass with silver plating and hand-applied house gem accents (rubies, emeralds, sapphires, and yellow diamonds - simulated). Weighs 12 pounds. Features all four house crests in detailed relief work. Mounted on mahogany wooden base with brass nameplate. Limited production of 1,000 pieces worldwide. Includes certificate, white gloves, and custom wooden crate for shipping.",
+    "tags": ["limited edition", "house cup", "trophy", "luxury", "brass", "full scale"],
+    "stock_status": "pre_order"
+  },
+  {
+    "id": "LTD-003",
+    "name": "Triwizard Tournament Champions Set",
+    "category": "Limited Editions",
+    "house": "Universal",
+    "price": 299.99,
+    "description": "Exclusive boxed set containing replicas of the four champions' wands from the Triwizard Tournament: Harry Potter's wand, Cedric Diggory's wand, Fleur Delacour's wand, and Viktor Krum's wand. Each wand is 11-14 inches with character-specific details. Set includes Goblet of Fire miniature replica and four champion name scrolls. Presented in deluxe wooden collector's box with velvet lining. Limited to 3,000 sets. Individually numbered.",
+    "tags": ["limited edition", "wand set", "triwizard", "collectors", "boxed set", "numbered"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "GFT-001",
+    "name": "Gryffindor Ultimate Fan Bundle",
+    "category": "Gift Bundles",
+    "house": "Gryffindor",
+    "price": 229.99,
+    "description": "Complete Gryffindor gift bundle including: Deluxe house robe, ultra-soft knit scarf, house crest ring, phoenix feather wand, house-themed journal, and exclusive enamel pin set. All items feature authentic Gryffindor colors and crests. Packaged in premium gift box with house-colored tissue paper and greeting card. Save $70 compared to individual purchase. Perfect birthday or holiday gift for the brave Gryffindor in your life.",
+    "tags": ["gift bundle", "gryffindor", "complete set", "value pack", "gift", "house pride"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "GFT-002",
+    "name": "Slytherin Ultimate Fan Bundle",
+    "category": "Gift Bundles",
+    "house": "Slytherin",
+    "price": 229.99,
+    "description": "Comprehensive Slytherin gift bundle featuring: Deluxe house robe, ultra-soft knit scarf, house crest ring, dragon heartstring wand, house-themed journal, and exclusive enamel pin set. All items showcase signature emerald and silver colors. Elegantly packaged in premium gift box with serpent-embossed tissue. Save $70 versus buying separately. Ideal gift for ambitious Slytherins.",
+    "tags": ["gift bundle", "slytherin", "complete set", "value pack", "gift", "house pride"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "GFT-003",
+    "name": "Starter Wizard Kit - Perfect First Gift",
+    "category": "Gift Bundles",
+    "house": "Universal",
+    "price": 99.99,
+    "description": "Everything a young witch or wizard needs to start their magical journey. Bundle includes: beginner's training wand, standard black robe (youth sizes), house scarf of choice, Hogwarts acceptance letter stationery set, and spell practice workbook. Packaged in themed trunk-style gift box. Recommended for ages 8-14. Specify house preference for scarf. Makes perfect first wizard gift or birthday present.",
+    "tags": ["gift bundle", "starter kit", "kids", "beginner", "value pack", "first gift"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "GFT-004",
+    "name": "Couples Romantic Wizard Date Night Box",
+    "category": "Gift Bundles",
+    "house": "Universal",
+    "price": 149.99,
+    "description": "Enchanting couples bundle perfect for magical date nights. Includes: two golden snitch wine glass charms, two house scarves (specify houses), matching Time-Turner keychains, Marauder's Map picnic blanket, and premium spell-inspired candle set. Presented in romantic gift box with metallic gold ribbon. Ideal for anniversaries, Valentine's Day, or engagements. Create your own magical moments together.",
+    "tags": ["gift bundle", "couples", "romantic", "date night", "anniversary", "valentines"],
+    "stock_status": "in_stock"
+  },
+  {
+    "id": "GFT-005",
+    "name": "Luxury Collector's Ultimate Bundle",
+    "category": "Gift Bundles",
+    "house": "Universal",
+    "price": 899.99,
+    "description": "The ultimate wizard merchandise collection for serious fans and collectors. Massive bundle includes: Elder Wand replica with display case, all four deluxe house robes, Golden Snitch limited edition replica, Time-Turner necklace, Marauder's Map full-size replica, complete House Founder statues set, Deathly Hallows sterling silver pendant, and premium Hogwarts journal collection. Arrives in custom wooden collector's trunk with brass fittings and velvet interior. Certificate of collection authenticity included. Save over $500.",
+    "tags": ["gift bundle", "luxury", "collectors", "ultimate", "premium", "complete collection"],
+    "stock_status": "low_stock"
+  }
+]
